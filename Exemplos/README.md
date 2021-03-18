@@ -1,4 +1,4 @@
-##Exercício 1
+#Exercício 1
 Construa  um  modelo  de  dados  relacional  que  atenda  aos  seguintes requisitos de um berçário:
 
 1)É necessário manter um cadastro dos pais com nome, RG, sexo, data de nascimento, telefone e endereço;
@@ -9,7 +9,7 @@ Construa  um  modelo  de  dados  relacional  que  atenda  aos  seguintes requisi
 
 4)É preciso cadastrar quais os profissionais envolvidos no nascimento de cada bebê.
 
-##Exercício 2
+#Exercício 2
 Construa um modelo de dados relacional que atenda aos seguintes requisitos de uma loja de eletrodomésticos:
 
 1)É necessário manter um cadastro dos funcionários armazenando nome, CPF, data de nascimento, endereço, telefone, cargo e conta bancária. Cada funcionário está sujeito a supervisão de um único outro funcionário em cargo superior. 
