@@ -2,7 +2,6 @@ A Federação de Futebol da Bachatóvia deseja construir um sistema de informaç
 organizar seus prestigiados campeonatos de futebol. Faça um diagrama de modelo de banco de
 dados relacional para atender aos seguintes requisitos:
 
-
 1 - Todo jogador que possa atuar no campeonato precisa estar cadastrado. O cadastro do jogador deve
 incluir, nome, data de nascimento, número de registro na confederação (único para cada jogador),
 nacionalidade e documento de identificação.
@@ -42,7 +41,8 @@ os respectivos números de camisa utilizados por cada um. É preciso discriminar
 inicialmente titular ou reserva. Se, em algum momento, qualquer jogador entrar em campo para
 efetivamente jogar, é preciso registrar o momento do tempo de jogo em que o jogador entrou e o tempo
 em que o mesmo saiu. Note que alguns reservas não chegam a entrar efetivamente em jogo.
-continua na próxima página12 – Note que para um jogador ser relacionado para uma partida, é preciso que ele esteja cadastrado no
+
+12 – Note que para um jogador ser relacionado para uma partida, é preciso que ele esteja cadastrado no
 elenco de um dos times envolvidos na mesma para o respectivo campeonato. Do mesmo modo, cada
 partida em um campeonato só pode ocorrer entre time cadastrados para o respectivo campeonato.
 
